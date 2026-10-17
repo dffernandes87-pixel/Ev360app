@@ -1,0 +1,7 @@
+{
+  "name": "Dashboard Central do Modo Show",
+  "description": "Console profissional de controle em tempo real do Modo Show para smartphones da plateia em shows e eventos.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
